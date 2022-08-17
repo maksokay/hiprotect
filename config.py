@@ -11,8 +11,8 @@ class Color:
 
 class Auth:
     discord_auth = {
-        "debug":"OTkxNjI5OTgwMzQ3OTQwOTM1.GHitmC._g7bjJFdMYmFd6areyaMRsJNDwb9WmBGPHQjjc",
-        "release": "OTkxNjI5OTgwMzQ3OTQwOTM1.GHitmC._g7bjJFdMYmFd6areyaMRsJNDwb9WmBGPHQjjc"
+        "debug":"OTkxNjI5OTgwMzQ3OTQwOTM1.GSpN9O.RG3Sjrv-wD12MSE7eADCzvGt8_Mw4gSb7MmIpk",
+        "release": "OTkxNjI5OTgwMzQ3OTQwOTM1.GSpN9O.RG3Sjrv-wD12MSE7eADCzvGt8_Mw4gSb7MmIpk"
     }
     mongo_auth = {
         "url":"",
